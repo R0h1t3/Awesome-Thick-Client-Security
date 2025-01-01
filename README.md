@@ -221,3 +221,6 @@ Table of Contents
 - [Thick Client Security Testing - Short Tutorial](https://allabouttesting.org/thick-client-security-testing-short-tutorial/)
 - [SVJA - Super Vulnerable Java Application](https://github.com/theronielanddaronpodcastshow/svja)
 - [The art of Fuzzing](https://bushido-sec.com/index.php/2023/06/19/the-art-of-fuzzing/)
+
+
+-----
