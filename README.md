@@ -8,10 +8,10 @@ Table of Contents
 =================
 
 - [Thick Client Testing Methodology](#thick-client-testing-methodology)
-  - [Information Gathering](#Information-Gathering)
-  - [Client Side Attacks](#Client-Side-Attacks)
-  - [Network Side Attacks](#Network-Side-Attacks)
-  - [Server Side Attacks](#Server-Side-Attacks)
+  - [Information Gatherings](#Information-Gatherings)
+  - [Client Side Attacks](#Client-Side-Attack)
+  - [Network Side Attacks](#Network-Side-Attack)
+  - [Server Side Attacks](#Server-Side-Attack)
     
 - [Thick Client Testing Tools](#thick-client-testing-tools)
   - [Information Gathering](#Information-Gathering)
@@ -68,7 +68,7 @@ Table of Contents
 ------
 
 ## Thick Client Testing Methodology
-### Information Gathering
+### Information Gatherings
 - Application Architecture
   - Business Logic
 - Platform Mapping
@@ -82,7 +82,7 @@ Table of Contents
   - Identify all entry points
   - Analyze Security Mechanism (Authentication & Authorization)
 
-### Client Side Attacks
+### Client Side Attack
 - File Analysis
   - Information Disclosure
 - Binary Analysis
@@ -99,14 +99,14 @@ Table of Contents
   - Privilege Escalation
 - DLL Hijacking 
 
-### Network Side Attacks
+### Network Side Attack
 - Network Traffics
   - Sensitive Installation Information
   - Installation/Uninstalltion/Update/Run Time Traffic
   - Data Disclosure
   - Vulnerable API
 
-### Server Side Attacks
+### Server Side Attack
 - Network Layer Attacks (TCP-UDP Attacks)
 - Possible OWASP 10 Attacks types
 - Miscellaneous Attacks - WCF Scan
