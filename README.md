@@ -14,19 +14,19 @@ Table of Contents
   - [Server Side Attacks](#Server-Side-Attack)
     
 - [Thick Client Testing Tools](#thick-client-testing-tools)
-  - [Information Gathering](#Information-Gathering)
+  - [Information Gathering](#Information-Gathering-Tools)
     - [Static Tools](#Static-Tools)
     - [.NET Decompilers And De-obfuscators Tools](#.NET-Decompilers-And-De-obfuscators-Tools)
     - [Network Sniffers](#Network-Sniffers)
-  - [Client Side Attacks](#Client-Side-Attacks)
+  - [Client Side Attacks](#Client-Side-Attacks-Tools)
     - [File Analysis Tools, Sensitive Data Storage On Files And Registry](#File-Analysis-Tools,-Sensitive-Data-Storage-On-Files-And-Registry)
     - [Binary Analysis Tools](#Binary-Analysis-Tools)
     - [Memory Analysis Tools](#Memory-Analysis-Tools)
     - [DLL Hijacking](#DLL-Hijacking)
     - [Weak GUI Control Tools](#Weak-GUI-Control-Tools)
-  - [Network-Side Attacks](#Network--Side-Attacks)
+  - [Network-Side Attacks](#Network--Side-Attacks-Tools)
     - [Proxy Tools](#Proxy-Tools)
-  - [Server-Side Attacks](#Server--Side-Attacks)
+  - [Server-Side Attacks](#Server--Side-Attacks-Tools)
     - [Miscellaneous](#Miscellaneous)
 
 - [Checklist](#Checklist)
@@ -114,7 +114,7 @@ Table of Contents
 ------
 
 ## Thick Client Testing Tools
-### Information Gathering
+### Information Gathering Tools
 #### Static Tools
 - [CFF Explorer](https://ntcore.com/?page_id=388) - A tool that was designed to make PE editing as easy as possible without losing sight of the portable executable’s internal structure.
   - Info about the exe files
@@ -144,7 +144,7 @@ Table of Contents
 - [Microsoft Network Monitor 3.4](https://www.microsoft.com/en-us/download/details.aspx?id=4865) - Microsoft Network Monitor 3.4 is a tool for network traffic capture and protocol analysis.
 - [MITM relay](https://github.com/jrmdev/mitm_relay) - a type of tool that allows an attacker to intercept and modify non-HTTP protocols through existing traffic interception software such as Burp Proxy or Proxenet. It can be particularly useful for thick clients' security assessments.
 
-### Client Side Attacks
+### Client Side Attacks Tools
 #### File Analysis Tools, Sensitive Data Storage On Files And Registry
 - [Sysinternals Utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/) - (Process Monitor, Regedit, Regshot, AccessEnum) [GitHub](https://github.com/MicrosoftDocs/sysinternals/blob/live/sysinternals/downloads/index.md)
   - OS: Windows
@@ -194,7 +194,7 @@ Table of Contents
 - [UISpy](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/march/test-run-automating-ui-tests-in-wpf-applications) - A GUI utility tool that allows users to examine properties of the UI components of a WPF application. UISpy is part of the Microsoft Windows SDK and is available as a free download from Microsoft.com/downloads.
 - [Window Detective](https://github.com/WindowDetective/WindowDetective) - A tool that allows users to view and manipulate window properties. It is used to identify the properties of windows, such as their size, position, and class name. Window Detective is useful for debugging and testing applications.
 
-### Network-Side Attacks
+### Network-Side Attacks Tools
 #### Proxy Tools
 - [Burp Suite](https://portswigger.net/burp) - Burp Suite Professional is an advanced set of tools for testing web security.
   - OS: Windows, Mac and Linux
@@ -209,7 +209,7 @@ Table of Contents
   - OS: Windows, Mac and Linux
   - License: Free
  
-### Server-Side Attacks
+### Server-Side Attacks Tools
 #### Miscellaneous
 - [Metasploit](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers) - used for side loading/ DLL and Exe injection
 - [Binscope](https://www.microsoft.com/en-us/download/details.aspx?id=44995) - a binary analyzer tool developed by Microsoft that analyzes binaries on a project-wide level to ensure that they have been built in compliance with Microsoft's security recommendations
