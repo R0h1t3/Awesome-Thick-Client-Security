@@ -1,18 +1,20 @@
 Awesome-Thick-Client-Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===================
-A curated list of Thick Client Security Resource (Blogs, Course, Video Playlist and Vulnerable Applications to practise on) for thick client penetration testing. 
+A curated list of Thick Client Security Resource (Blogs, Course, Video Playlist and Vulnerable Applications to practise on) for thick client penetration testing.
+
+Inspired by [awesome projects](https://github.com/sindresorhus/awesome).
 
 Table of Contents
 =================
 
-1. [Thick Client Testing Methodology](#thick-client-testing-methodology)
+- [Thick Client Testing Methodology](#thick-client-testing-methodology)
+  - [Information Gathering](#Information-Gathering)
 2. [Thick Client Testing Tools](#thick-client-testing-tools)
 
 
+------
 
-Thick Client Testing Methodology
-=================
-
+## Thick Client Testing Methodology
 ### Information Gathering
 - Application Architecture
   - Business Logic
