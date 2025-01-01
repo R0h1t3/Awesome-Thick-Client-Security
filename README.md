@@ -24,9 +24,9 @@ Table of Contents
     - [Memory Analysis Tools](#Memory-Analysis-Tools)
     - [DLL Hijacking](#DLL-Hijacking)
     - [Weak GUI Control Tools](#Weak-GUI-Control-Tools)
-  - [Network-Side Attacks](#Network--Side-Attacks-Tools)
+  - [Network-Side Attacks](#Network-Side-Attacks-Tools)
     - [Proxy Tools](#Proxy-Tools)
-  - [Server-Side Attacks](#Server--Side-Attacks-Tools)
+  - [Server-Side Attacks](#Server-Side-Attacks-Tools)
     - [Miscellaneous](#Miscellaneous)
 
 - [Checklist](#Checklist)
@@ -194,7 +194,7 @@ Table of Contents
 - [UISpy](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/march/test-run-automating-ui-tests-in-wpf-applications) - A GUI utility tool that allows users to examine properties of the UI components of a WPF application. UISpy is part of the Microsoft Windows SDK and is available as a free download from Microsoft.com/downloads.
 - [Window Detective](https://github.com/WindowDetective/WindowDetective) - A tool that allows users to view and manipulate window properties. It is used to identify the properties of windows, such as their size, position, and class name. Window Detective is useful for debugging and testing applications.
 
-### Network-Side Attacks Tools
+### Network Side Attacks Tools
 #### Proxy Tools
 - [Burp Suite](https://portswigger.net/burp) - Burp Suite Professional is an advanced set of tools for testing web security.
   - OS: Windows, Mac and Linux
@@ -209,7 +209,7 @@ Table of Contents
   - OS: Windows, Mac and Linux
   - License: Free
  
-### Server-Side Attacks Tools
+### Server Side Attacks Tools
 #### Miscellaneous
 - [Metasploit](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers) - used for side loading/ DLL and Exe injection
 - [Binscope](https://www.microsoft.com/en-us/download/details.aspx?id=44995) - a binary analyzer tool developed by Microsoft that analyzes binaries on a project-wide level to ensure that they have been built in compliance with Microsoft's security recommendations
